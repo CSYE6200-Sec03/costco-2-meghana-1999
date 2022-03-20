@@ -1,5 +1,5 @@
 package org.gdp;
 
-public class StoreAPI {
-
+public abstract class StoreAPI {
+public abstract String toString();
 }
