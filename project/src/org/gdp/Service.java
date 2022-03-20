@@ -8,7 +8,7 @@ public class Service extends ItemAPI {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public Service(int serialNumber, double price, String name, String description) {
+	public Service(int serialNumber, double price, String name, String description, String startTime2, String endTime2, String units) {
 		super(serialNumber, price, name, description);
 		// TODO Auto-generated constructor stub
 	}
